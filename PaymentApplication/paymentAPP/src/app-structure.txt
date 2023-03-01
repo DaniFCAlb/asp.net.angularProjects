@@ -1,0 +1,9 @@
+src
++-- app
+| +-- payment-details
+| | |--payment-details.component.ts | .html | .css
+| | +-- payment-detail-form
+| | | | --payment-detail-form.component.ts | .html | .css
+| |
+| +--shared
+| | -- 

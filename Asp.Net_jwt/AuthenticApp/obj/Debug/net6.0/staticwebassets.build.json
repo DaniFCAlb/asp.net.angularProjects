@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eAiJKafYFdsxqS6aw8Y8tN4olrS9hDGVdAZMy0Jnz0U=",
+  "Source": "AuthenticApp",
+  "BasePath": "_content/AuthenticApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
